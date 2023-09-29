@@ -80,6 +80,7 @@ export interface PortfolioItem {
   title: string;
   description: string;
   url: string;
+  stack: string[];
   image: string | StaticImageData;
 }
 
@@ -125,6 +126,7 @@ export const ContactType = {
   Facebook: 'Facebook',
   Twitter: 'Twitter',
   Instagram: 'Instagram',
+  Discord: 'Discord',
 } as const;
 
 export type ContactType = (typeof ContactType)[keyof typeof ContactType];
