@@ -102,7 +102,7 @@ export const aboutData: About = {
     {label: 'Location', text: 'Rio de Janeiro, Brazil', Icon: MapIcon},
     {label: 'Age', text: '29', Icon: CalendarIcon},
     {label: 'Nationality', text: 'Brazilian', Icon: FlagIcon},
-    {label: 'Interests', text: 'Motorcycles, Guitar, Game', Icon: SparklesIcon},
+    {label: 'Interests', text: 'Motorcycles, Swimming, Keeping fit', Icon: SparklesIcon},
     {label: 'Employment', text: 'Freelancer', Icon: BuildingOffice2Icon},
   ],
 };
