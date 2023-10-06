@@ -272,6 +272,12 @@ export const portfolioItems: PortfolioItem[] = [
  */
 export const education: TimelineItem[] = [
   {
+    date: '2016 - 2018',
+    location: 'Bachelor\'s degree, Computer Science',
+    title: 'Universidade Federal do Rio de Janeiro',
+    content: <span></span>,
+  },
+  {
     date: 'Jun 2020 - Dec 2024',
     location: 'Udemy Academy',
     title: 'FullStack Web Developer, Web Development',
