@@ -288,6 +288,16 @@ export const education: TimelineItem[] = [
 
 export const experience: TimelineItem[] = [
   {
+    date: '20/01/2023 - 30/07/2023',
+    location: 'Duosystem - Inteligência em Saúde',
+    title: 'FullStack PHP Developer',
+    content: (
+      <ul>
+        <li>PHP, Laravel, Apache, Git, Mysql, Trello</li>
+      </ul>
+    ),
+  },
+  {
     date: '02/05/2022 - 04/12/2022',
     location: 'Alpha Technologies USA',
     title: 'ReactJS, TypeScript, MaterialUI, Redux',
@@ -371,7 +381,7 @@ export const experience: TimelineItem[] = [
   {
     date: '01/08/2018 - 31/10/2021',
     location: 'Freelancing',
-    title: 'WordPress, Laravel, VueJS, ReactJS, Spring, NodeJS (NestJS and Express), PostgreSQL, MySQL, Docker',
+    title: 'WordPress, PHP, Laravel, VueJS, ReactJS, Spring, NodeJS (NestJS and Express), PostgreSQL, MySQL, Docker',
     content: (
       <ul>
         <li>
